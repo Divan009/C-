@@ -1,0 +1,7 @@
+﻿  in_out_class.cpp
+d:\cpp programs\classes\classes\in_out_class.cpp(14): error C3867: 'Car::numOfTyre': non-standard syntax; use '&' to create a pointer to member
+d:\cpp programs\classes\classes\in_out_class.cpp(19): error C3867: 'Car::printColor': non-standard syntax; use '&' to create a pointer to member
+d:\cpp programs\classes\classes\in_out_class.cpp(24): error C2659: '=': function as left operand
+d:\cpp programs\classes\classes\in_out_class.cpp(25): error C2659: '=': function as left operand
+d:\cpp programs\classes\classes\in_out_class.cpp(28): error C2659: '=': function as left operand
+d:\cpp programs\classes\classes\in_out_class.cpp(29): error C2659: '=': function as left operand
