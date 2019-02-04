@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\cpp programs\call by val n ref\call by val n ref\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+main.obj : error LNK2005: _main already defined in call_by_ref.obj
+D:\Cpp Programs\call by val n ref\Debug\call by val n ref.exe : fatal error LNK1169: one or more multiply defined symbols found
