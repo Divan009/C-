@@ -1,0 +1,3 @@
+﻿  001.cpp
+d:\cpp programs\pointer-bk\pointer-bk\001.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pointer-bk.vcxproj -> D:\Cpp Programs\pointer-bk\Debug\pointer-bk.exe

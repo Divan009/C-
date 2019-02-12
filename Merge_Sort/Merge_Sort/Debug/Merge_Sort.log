@@ -1,0 +1,13 @@
+﻿  Merge_Sort.cpp
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(9): error C2131: expression did not evaluate to a constant
+  d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(9): note: failure was caused by a read of a variable outside its lifetime
+  d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(9): note: see usage of 'r'
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(31): error C3863: array type 'int [r-l+]' is not assignable
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(35): error C3863: array type 'int [r-l+]' is not assignable
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(43): error C3863: array type 'int [r-l+]' is not assignable
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(49): error C3863: array type 'int [r-l+]' is not assignable
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(85): error C2131: expression did not evaluate to a constant
+  d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(85): note: failure was caused by a read of a variable outside its lifetime
+  d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(85): note: see usage of 'n'
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(88): warning C4552: '>>': result of expression not used
+d:\cpp programs\merge_sort\merge_sort\merge_sort.cpp(95): warning C4552: '<<': result of expression not used
